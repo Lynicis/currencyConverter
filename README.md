@@ -2,11 +2,11 @@
 
 ## Installation 🔽
 ```bash
-npm i -g currencyConverter
+npm i -g currency-conv
 ```
    *or*
 ```bash
-yarn add global currencyConverter
+yarn global add currency-conv
 ```
 
 ## Techs 🚀
