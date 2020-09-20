@@ -12,6 +12,7 @@ yarn global add currency-conv
 ## Techs 🚀
      * Node.js
        * Meow
+       * Chalk
        * Axios
      * REST API
      
