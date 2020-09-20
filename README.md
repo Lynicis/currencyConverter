@@ -7,4 +7,4 @@
       * REST API
      
 ## Used API ⚡
-**[exchangeratesapi](exchangeratesapi.io)
+ *[exchangeratesapi](exchangeratesapi.io)*
