@@ -2,11 +2,11 @@
 
 ## Installation 🔽
 ```bash
-npm i -g currency-conv
+npm i -g exchange-office
 ```
    *or*
 ```bash
-yarn global add currency-conv
+yarn global add exchange-office
 ```
 
 ## Techs 🚀
