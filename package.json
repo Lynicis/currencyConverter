@@ -1,20 +1,23 @@
 {
-  "name": "currencyConverter",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "author": {
-    "name": "Lynicis",
-    "email": "lynicis@protonmail.com",
-    "url": "lynicis.kodsuzm.com"
+  "name": "cconverter",
+  "version": "1.5.0",
+  "bin": {
+    "cc": "index.js"
   },
+  "author": "Lynicis <lynicis@protonmail.com> (lynicis.kodsuzm.com)",
   "repository": {
-    "url": "https://github.com/Lynicis/dovizCevirici"
+    "url": "https://github.com/Lynicis/currencyConverter.git"
   },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
     "chalk": "^4.1.0",
     "meow": "^7.1.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Lynicis/currencyConverter/issues"
+  },
+  "homepage": "https://github.com/Lynicis/currencyConverter#readme",
+  "devDependencies": {},
+  "description": ""
 }
