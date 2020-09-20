@@ -2,11 +2,11 @@
 
 ## Installation 🔽
 ```bash
-npm i -g exchange-office
+npm i -g cconverter
 ```
    *or*
 ```bash
-yarn global add exchange-office
+yarn global add cconverter
 ```
 
 ## Techs 🚀
