@@ -1,8 +1,10 @@
 # Currency Converter | Döviz Çevirici
 
-#### Techs 
+## Techs 
       * Node.js
-         * Meow
-        * Axios
+          * Meow
+          * Axios
       * REST API
      
+## Usage API
+[exchangeratesapi](exchangeratesapi.io)
