@@ -5,14 +5,14 @@ const chalk = require('chalk');
 const axios = require('axios');
 
 const cli = meow(`
-    ${chalk.blue('Usage:')} 
-      $ cc ${chalk.green('<currency>')} ${chalk.orange('<cost>')}
+    Usage: 
+      $ cc <currency> <cost>
       
-      ${chalk.blue('Options')}
-        --help              -h
-        --dollar            -d
-        --euro              -e
-        --sterlin           -s       
+    Options:
+      --help              -h
+      --dollar            -d
+      --euro              -e
+      --sterlin           -s       
 `, {
     flags: {
         help: {
