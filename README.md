@@ -3,26 +3,26 @@
 
 ## Installation 🔽
 ```bash
-npm i -g cconverter
+$ npm i -g cconverter
 ```
    **or**
 ```bash
-yarn global add cconverter
+$ yarn global add cconverter
 ```
 
 
 ## Usage ✔
 ```bash
-  cc [key command]
+$ cc [key command]
 ```
 
 #### Other commands
 ```bash
-cc [cost rates]
-cc --help     -h [show help menu]
-cc --dollar   -d [convert USD to TRY]
-cc --euro     -e [convert EUR to TRY]
-cc --sterlin  -s [convert GBP to TRY]
+$ cc [cost rates]
+$ cc --help     -h [show help menu]
+$ cc --dollar   -d [convert USD to TRY]
+$ cc --euro     -e [convert EUR to TRY]
+$ cc --sterlin  -s [convert GBP to TRY]
 ```
 
 
