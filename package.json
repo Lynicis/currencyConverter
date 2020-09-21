@@ -1,6 +1,15 @@
 {
   "name": "cconverter",
   "version": "1.5.1",
+  "keywords": [
+    "cli",
+    "foreign",
+    "exchange",
+    "app",
+    "nodejs",
+    "converter",
+    "currency"
+  ],
   "bin": {
     "cc": "index.js"
   },
