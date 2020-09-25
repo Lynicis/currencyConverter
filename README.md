@@ -1,4 +1,5 @@
 # Currency Converter 💰
+Basic and Easy to Use Currency Converter CLI Application
 
 
 ## Installation 🔽
@@ -18,7 +19,7 @@ $ cc [key command]
 
 #### Other commands
 ```bash
-$ cc [cost rates]
+$ cc [currency]
 $ cc --help     -h [show help menu]
 $ cc --dollar   -d [convert USD to TRY]
 $ cc --euro     -e [convert EUR to TRY]

@@ -1,6 +1,6 @@
 {
   "name": "cconverter",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "keywords": [
     "cli",
     "foreign",
@@ -28,5 +28,5 @@
   },
   "homepage": "https://github.com/Lynicis/currencyConverter#readme",
   "devDependencies": {},
-  "description": ""
+  "description": "Basic and Easy to Use Currency Converter CLI Application"
 }
